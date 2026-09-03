@@ -146,10 +146,6 @@ I believe the best software is **invisible to the user** — so seamless it feel
 
 ## 📊 Daily Bugle — Commit Log
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushardevx01&bg_color=141321&color=E23636&line=5085C8&point=FFFFFF&area=true&hide_border=true" height="280" alt="Activity Graph" />
-
-<br/>
-<br/>
 
 <div>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tushardevx01&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&icon_color=5085C8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
