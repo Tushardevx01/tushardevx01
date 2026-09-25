@@ -148,16 +148,16 @@ I believe the best software is **invisible to the user** — so seamless it feel
 
 
 <div>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tushardevx01&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&icon_color=5085C8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tushardevx01&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&icon_color=5085C8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tushardevx01&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tushardevx01&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&count_private=true" alt="Top Languages" />
 </div>
 
 <br/>
 <br/>
 
 <div>
-  <img src="https://github-readme-streak-stats-eight-theta.vercel.app/?user=Tushardevx01&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=5085C8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight-theta.vercel.app/?user=Tushardevx01&theme=dark&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=5085C8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br/>
